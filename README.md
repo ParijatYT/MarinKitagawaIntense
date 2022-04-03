@@ -21,7 +21,7 @@
 
 - First fork this repository.
 - Then change the deploy link bellow.
-- This step must be doing because mine link is violates the salesforce acceptable use.
+- This step must be done because this bot is already in telegram and a dublicate one will look bad.
 - You can just change the name of github on deploy link and done, the repos able to deploy on heroku.
 - Full Tutorial - [![Full Tutorial](https://img.shields.io/badge/Watch%20Now-blue)](https://youtu.be/GMaYMYhf_Vk)
 
