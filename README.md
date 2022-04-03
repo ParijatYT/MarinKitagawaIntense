@@ -43,7 +43,7 @@ And It is Edited and Updated by IntenseNetwork
 <p>
 <a href="https://t.me/IntenseNetwork"> <img src="https://img.shields.io/badge/Intense-Network-blue?&logo=telegram" alt="Intense Network on Telegram" /> </a><br>
 <a href="https://t.me/IntenseChat"> <img src="https://img.shields.io/badge/Support-Chat-blue?&logo=telegram" alt="Support Chat" /> </a><br>
-<a href="https://t.me/MarinKitagawa_Intensebot"> <img src="https://img.shields.io/badge/Marin-Kitagawa-Bot-blue?&logo=telegram" alt="Bot on telegram" /> </a><br>
+<a href="https://t.me/MarinKitagawa_Intensebot"> <img src="https://img.shields.io/badge/Marin-Kitagawa-blue?&logo=telegram" alt="Bot on telegram" /> </a><br>
 </p>
 
 ## Credit 
